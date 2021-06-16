@@ -86,7 +86,7 @@
 
     <!--Vaadin-->
     <vaadin.version>13.0.8</vaadin.version>
-    <undertow.version>2.0.21.Final</undertow.version>
+    <undertow.version>2.0.23.Final</undertow.version>
 
     <!--Kotlin-->
 <!--    <kotlin.compiler.jvmTarget>1.8</kotlin.compiler.jvmTarget>-->
